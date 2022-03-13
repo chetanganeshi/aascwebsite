@@ -1,5 +1,5 @@
 # The Adoni Arts and Science College Website
-  This is a website which is totally dynamic and built upon PHP, JQuery, HTML, CSS and MySql.
+  This is a website which is totally dynamic and built upon HTML, CSS, JavaScript, PHP and MySql.
 
 # Requirements
   Xampp server for MySql, PHP.
